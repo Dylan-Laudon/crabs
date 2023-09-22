@@ -6,7 +6,7 @@ function [height,width] = drawMap(imageName)
   %establishes the coordinate system.
   % Thus the game coordinates are x increasing to the right and y increasing downward
   %with the origin at the upper left corner.
-  %clear any current figures
+  %clear any current figures ervdfvefvcwecwerv efv ed
   clf
   %create game figure
   figure(1);
